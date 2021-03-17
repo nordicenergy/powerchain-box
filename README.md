@@ -13,7 +13,7 @@ If you have Truffle installed globally:
 (Until the box has been approved by Truffle you have to rely on the git installation step below)
 
 ```
-mkdir harmony && cd powerchain
+mkdir powerchain && cd powerchain
 truffle unbox powerchain
 ```
 
