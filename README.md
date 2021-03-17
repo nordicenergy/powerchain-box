@@ -1,8 +1,8 @@
-# ![Harmony](box-img-sm.png)
+# ![PowerChain](box-img-sm.png)
 
-# Harmony Box
+# PowerChain Box
 
-Harmony Box is a Truffle box that will get you quickly up and running deploying smart contracts on Harmony using Truffle & native Ethereum tooling.
+Nordic Energy´s PowerChain Box is a Truffle box that will get you quickly up and running deploying smart contracts on PowerChain using Truffle & native Ethereum tooling.
 
 ## Getting started
 
@@ -13,15 +13,15 @@ If you have Truffle installed globally:
 (Until the box has been approved by Truffle you have to rely on the git installation step below)
 
 ```
-mkdir harmony && cd harmony
-truffle unbox harmony
+mkdir harmony && cd powerchain
+truffle unbox powerchain
 ```
 
 Or if you want to install via git:
 
 ```
-git clone https://github.com/harmony-one/harmony-box.git
-cd harmony-box
+git clone https://github.com/nordicenergy/powerchain-box.git
+cd powerchain-box
 ```
 
 ### .env

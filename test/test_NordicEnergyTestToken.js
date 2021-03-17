@@ -1,6 +1,6 @@
-const TestToken = artifacts.require("TestToken")
+const NordicEnergyTestToken = artifacts.require("NordicEnergyTestToken")
 
-contract('TestToken', accounts => {
+contract('NordicEnergyTestToken', accounts => {
   let token
   
   beforeEach(async () => {
